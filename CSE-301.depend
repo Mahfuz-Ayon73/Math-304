@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1689582213 source:/home/iit/Bsse1421/1421/CSE-301/CSE-301/main.c
+	<stdio.h>
+	<stdlib.h>
+
